@@ -1,0 +1,17 @@
+body{
+	background-color:  #fadffd;
+
+}
+
+center {
+	width: 400px;
+	background: #f3b0f3;
+	padding: 30px;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 4px;
+	font-family: 'Magical Story';
+	font-size: 16px;
+	color: black;
+
+}

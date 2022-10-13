@@ -1,0 +1,29 @@
+h2{
+	text-align: center;
+	font-family: Magical Story Black;
+}
+
+body{
+	background-color: #D1F2EB;
+
+}
+
+
+* {
+	margin: 130;
+	padding: 130;
+	box-sizing: border-box;
+}
+
+form {
+	width: 400px;
+	background:#d8bfd8;
+	padding: 30px;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 4px;
+	font-family: 'Candara';
+	font-size: 16px;
+	color: black;
+
+}
